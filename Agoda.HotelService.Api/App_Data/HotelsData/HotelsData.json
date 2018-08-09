@@ -1,0 +1,158 @@
+﻿[
+  {
+    "CITY": "Bangkok",
+    "HOTELID": 1,
+    "ROOM": "Deluxe",
+    "PRICE": 1000
+  },
+  {
+    "CITY": "Amsterdam",
+    "HOTELID": 2,
+    "ROOM": "Superior",
+    "PRICE": 2000
+  },
+  {
+    "CITY": "Ashburn",
+    "HOTELID": 3,
+    "ROOM": "Sweet Suite",
+    "PRICE": 1300
+  },
+  {
+    "CITY": "Amsterdam",
+    "HOTELID": 4,
+    "ROOM": "Deluxe",
+    "PRICE": 2200
+  },
+  {
+    "CITY": "Ashburn",
+    "HOTELID": 5,
+    "ROOM": "Sweet Suite",
+    "PRICE": 1200
+  },
+  {
+    "CITY": "Bangkok",
+    "HOTELID": 6,
+    "ROOM": "Superior",
+    "PRICE": 2000
+  },
+  {
+    "CITY": "Ashburn",
+    "HOTELID": 7,
+    "ROOM": "Deluxe",
+    "PRICE": 1600
+  },
+  {
+    "CITY": "Bangkok",
+    "HOTELID": 8,
+    "ROOM": "Superior",
+    "PRICE": 2400
+  },
+  {
+    "CITY": "Amsterdam",
+    "HOTELID": 9,
+    "ROOM": "Sweet Suite",
+    "PRICE": 30000
+  },
+  {
+    "CITY": "Ashburn",
+    "HOTELID": 10,
+    "ROOM": "Superior",
+    "PRICE": 1100
+  },
+  {
+    "CITY": "Bangkok",
+    "HOTELID": 11,
+    "ROOM": "Deluxe",
+    "PRICE": 60
+  },
+  {
+    "CITY": "Ashburn",
+    "HOTELID": 12,
+    "ROOM": "Deluxe",
+    "PRICE": 1800
+  },
+  {
+    "CITY": "Amsterdam",
+    "HOTELID": 13,
+    "ROOM": "Superior",
+    "PRICE": 1000
+  },
+  {
+    "CITY": "Bangkok",
+    "HOTELID": 14,
+    "ROOM": "Sweet Suite",
+    "PRICE": 25000
+  },
+  {
+    "CITY": "Bangkok",
+    "HOTELID": 15,
+    "ROOM": "Deluxe",
+    "PRICE": 900
+  },
+  {
+    "CITY": "Ashburn",
+    "HOTELID": 16,
+    "ROOM": "Superior",
+    "PRICE": 800
+  },
+  {
+    "CITY": "Ashburn",
+    "HOTELID": 17,
+    "ROOM": "Deluxe",
+    "PRICE": 2800
+  },
+  {
+    "CITY": "Bangkok",
+    "HOTELID": 18,
+    "ROOM": "Sweet Suite",
+    "PRICE": 5300
+  },
+  {
+    "CITY": "Ashburn",
+    "HOTELID": 19,
+    "ROOM": "Superior",
+    "PRICE": 1000
+  },
+  {
+    "CITY": "Ashburn",
+    "HOTELID": 20,
+    "ROOM": "Superior",
+    "PRICE": 4444
+  },
+  {
+    "CITY": "Ashburn",
+    "HOTELID": 21,
+    "ROOM": "Deluxe",
+    "PRICE": 7000
+  },
+  {
+    "CITY": "Ashburn",
+    "HOTELID": 22,
+    "ROOM": "Sweet Suite",
+    "PRICE": 14000
+  },
+  {
+    "CITY": "Amsterdam",
+    "HOTELID": 23,
+    "ROOM": "Deluxe",
+    "PRICE": 5000
+  },
+  {
+    "CITY": "Ashburn",
+    "HOTELID": 24,
+    "ROOM": "Superior",
+    "PRICE": 1400
+  },
+  {
+    "CITY": "Ashburn",
+    "HOTELID": 25,
+    "ROOM": "Deluxe",
+    "PRICE": 1900
+  },
+  {
+    "CITY": "Amsterdam",
+    "HOTELID": 26,
+    "ROOM": "Deluxe",
+    "PRICE": 2300
+  }
+]
